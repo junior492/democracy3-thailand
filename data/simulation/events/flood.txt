@@ -1,0 +1,12 @@
+[config]
+Name = flood
+GUIName = Flood!
+Texture = "flood.jpg"
+Description = A week of heavy rainfall caused severe flooding in major parts of our country. In the short term this is going to cause a drop in GDP as businesses and farms hit by the flood have to rebuild.
+GUISound = d3_storm.ogg
+OnImplement = CreateGrudge(Flood!,flood,GDP,-0.160,0.810);CreateGrudge(Flood!,flood,flood,-0.900,0.900);CreateGrudge(Flood!,flood,_All_,-0.090,0.700);CreateGrudge(Flood!,flood,Farmers,-0.090,0.810)
+
+
+[influences]
+0 = "_random_,0.000,0.400"
+1 = "_winning_,0+(0.75*x)"

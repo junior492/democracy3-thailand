@@ -1,0 +1,1 @@
+CreateGrudge(Thai Geography,thailand,EthnicMinorities_freq,-0.25,1,0);
