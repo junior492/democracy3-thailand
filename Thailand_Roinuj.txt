@@ -1,0 +1,6 @@
+[config]
+name = "Thailand"
+path = "Thailand_Roinuj"
+guiname = "Thailand"
+author = "Roinuj"
+description = "Mod description goes here"
