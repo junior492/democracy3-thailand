@@ -1,0 +1,90 @@
+[config]
+currency = THB
+population = 34538
+economic_cycle_start = 0.6
+min_income = 10800
+max_income = 4000000
+min_gdp = 206714
+max_gdp = 615459
+wealth_mod = 1.5
+starting_debt = 205663
+name  = thailand
+guiname = "Kingdom of Thailand"
+names_file = "Thailand\data\names\thainames.txt"
+term_length = 16
+max_terms = 2
+details_image = "thailand_details.jpg"
+description = "Thailand, officially the Kingdom of Thailand and formerly known as Siam, is the world's 50th-largest country. It is the 20th-most-populous country in the world, with around 69 million people. Thailand is a member of the ASEAN, MGC, ACD, BIMSTEC and the UN. The head of state is King Vajiralongkorn, but government is controlled by the Prime Minister. The Thai economy is the world's 20th largest by GDP at PPP and the 27th largest by nominal GDP. It became a newly industrialised country and a major exporter in the 1990s. Manufacturing, agriculture, and tourism are leading sectors of the economy."
+flag = "flag_thailand.jpg"
+apathy = 0.41
+jobtitle = "Prime Minister"
+GUID = 1
+
+[options]
+MONARCHY
+
+
+[stats]
+Population: = "69,076,433 (October 2017)"
+Size: = "513,120 sq km"
+Life expectancy: = "74.60 years"
+Gini(inequality): = "37.9"
+GDP per capita: = "$5,907"
+Poverty: = "10.5% (2017)"
+Ethnicity: = "95.9% Thai"
+Religion: = "Buddhism(93.6%)"
+National Debt: = "41.20 to GPD (2016)"
+Military Spending: = "6047.10 USD Million (2016)"
+Big Mac Index: = "$3.50"
+
+[policies]
+AgricultureSubsidies = 0.5
+AirlineTax = 0.05
+AlcoholLaw = 0.6
+ArmedPolice = 0.3
+BiofuelSubsidies = 1.0
+BorderControls = 0.6
+BusLanes = 0.2
+BusSubsidies = 0.2
+CarEmmissionsLimits = 0.5
+CarTax = 1.0
+CCTVCameras = 0.2
+CitizenshipTests = 0.2
+CorporationTax = 0.38
+Creationism = 1.0
+DeathPenalty = 0.3
+DisabilityBenefit = 0.1
+ForeignAid = 0.1
+FreeBusPasses = 0.5
+HandgunLaws = 0.7
+IDCards = 1.0
+IncomeTax = 0.4
+CapitalGainsTax = 0.4
+InheritanceTax = 0.05
+IntelligenceServices = 0.3
+InternetCensorship = 0.8
+LabourLaws = 0.4
+LegalAid = 0.1
+LuxuryGoodsTax = 0.3
+MarriedTaxAllowance = 0.2
+MaternityLeave = 0.25
+MilitarySpending = 0.4
+Narcotics = 0
+NationalService = 0.75
+OrganDonation = 0.1
+PetrolTax = 0.5
+PhoneTapping = 0.6
+Prisons = 0
+PropertyTax = 0.3
+RailSubsidies = 0.2
+RoadBuilding = 0.2
+SalesTax = 0.125
+SpeedCameras = 0.2
+StateHealthService = 1.0
+StateHousing = 0.3
+StatePensions = 0.3
+StateSchools = 0.25
+TobaccoTax = 0.4
+TollRoads = 0.4
+UnemployedBenefit = 0.3
+FoodStamps = 0.3

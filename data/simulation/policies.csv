@@ -1,3 +1,4 @@
 ,name,guiname,slider,description,flags,introduce,cancel,raise,lower,department,mincost,maxcost,cost multiplier,implementation,minincome,maxincome,incomemultiplier,,,,
 #,NationalTV,National Broadcasting Services of Thailand,default,also known as NBT is a National television station in Thailand owned and operated by the National Broadcasting Services of Thailand (NBT). NBTTV is now broadcasting for 24 hours a day. It is aimed at viewers in the countryside. Some elements such as sex and violence are censored as NBT is one of the government departments.,,12,18,7,7,PUBLICSERVICES,160,300,,2,0,0,,#Effects,"Education,0.04+(0.04*x),4","Liberal,-0.10-(0.12*x)","Conservatives,0.10+(0.15*x)"
 #,THNewDeal,Thai New Deal,default,,,15,30,5,5,ECONOMY,300,500,,5,50,100,,#Effects,"Education,0.04+(0.04*x),5","Liberal,0.10+(0.12*x)",
+#,ASEAN,ASEAN,asean,,,20,40,8,8,ECONOMY,300,500,,5,50,100,,#Effects,"Education,0.04+(0.04*x),6","Liberal,0.10+(0.12*x)",
